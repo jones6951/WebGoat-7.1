@@ -16,7 +16,7 @@ import static com.github.ryenus.rop.OptionParser.Command;
 
 /**
  * ************************************************************************************************
- * This file is part of WebGoat, an Open Web Application Security Project utility. For details,
+ * This file is part of WebGoat, an Open Web Application Security Project utility. For details, TEST
  * please see http://www.owasp.org/
  * <p>
  * Copyright (c) 2002 - 20014 Bruce Mayhew
