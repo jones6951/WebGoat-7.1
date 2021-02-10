@@ -150,7 +150,7 @@
         <nexus-staging-maven-plugin.version>1.6.7</nexus-staging-maven-plugin.version>
         <org.springframework.version>3.2.4.RELEASE</org.springframework.version>
         <sauce_junit.version>2.1.20</sauce_junit.version>
-        <selenium-java.version>2.48.2</selenium-java.version>
+        <selenium-java.version>3.13.0</selenium-java.version>
         <slf4j-api.version>1.7.30</slf4j-api.version>
         <slf4j-log4j12.version>1.7.12</slf4j-log4j12.version>
         <spring.security.version>3.2.4.RELEASE</spring.security.version>
